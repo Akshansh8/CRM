@@ -27,8 +27,9 @@
 Using Maven:
 ```bash
 mvn spring-boot:run
+```
 
-### Technologies Used
+## Technologies Used
 
 * Spring Boot
 * Java
@@ -38,7 +39,7 @@ mvn spring-boot:run
 * MySQL
 * Spring Data JPA
 
-### Features
+## Features
 
 * Create new customer records.
 * Retrieve customer details.
